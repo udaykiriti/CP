@@ -1,8 +1,7 @@
 <h1 align="center">🚀 C++ & Competitive Programming Vault 📚</h1>
 
 <p align="center">
-  <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiriti&theme=tokyonight" />
+ 
 </p>
 
 </p>
