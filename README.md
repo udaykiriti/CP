@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/udaykiriti/CP/assets/your-image-id/banner-glow.png" alt="Project Banner" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykiriti&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
