@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=🚀+C%2B%2B+%26+Competitive+Programming;💡+Solve+Problems+Like+a+Pro!;🔥+Optimize+Every+Line!" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge&logo=heart" />
   <img src="https://img.shields.io/badge/IDE-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Contest%20Sites-Codeforces%20%2F%20Leetcode-blueviolet?style=for-the-badge" />
