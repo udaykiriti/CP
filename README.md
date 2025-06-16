@@ -1,3 +1,5 @@
+<h1 align="center">🚀 C++ & Competitive Programming Vault 📚</h1>
+
 <p align="center">
   <a href="https://github.com/udaykiriti/CP">
     <img src="https://img.shields.io/badge/View%20on-GitHub-24292e?style=for-the-badge&logo=github" />
