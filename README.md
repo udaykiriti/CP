@@ -1,8 +1,12 @@
-<h1 align="center">🚀 C++ & Competitive Programming Vault 📚</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=C%2B%2B+Competitive+Programming;Solve+Problems+Like+a+Pro;Optimize+Every+Line" />
+  <a href="https://github.com/udaykiriti/CP">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#🚀-quick-start">
+    <img src="https://img.shields.io/badge/Explore%20Repo-Start%20Here-007acc?style=for-the-badge" />
+  </a>
 </p>
+
 
 
 <h1 align="center">📚 Mastering Code One Problem at a Time</h1>
