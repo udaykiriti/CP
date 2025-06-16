@@ -2,15 +2,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiriti&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge&logo=heart" />
-  <img src="https://img.shields.io/badge/IDE-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contest%20Sites-Codeforces%20%2F%20LeetCode-blueviolet?style=for-the-badge" />
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykiriti&theme=tokyo-night&area=true&hide_border=true" />
@@ -47,7 +40,9 @@ This repository serves as a personal vault for competitive programming essential
 Designed for anyone looking to sharpen their competitive programming skills efficiently!
 
 ---
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 ## 📂 What's Inside?
 
 - **🛠️ Templates:** Starter code snippets, macros, and reusable C++ boilerplate to jumpstart your coding.
