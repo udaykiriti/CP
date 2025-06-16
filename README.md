@@ -1,26 +1,21 @@
-📚 C++ and Competitive Programming Resources
-Welcome to my repository for all things C++ and Competitive Programming!
-This repo contains my personal collection of:
+<h1 align="center">🚀 C++ & Competitive Programming Vault 📚</h1>
 
-✍️ Practice problems and solutions
+<p align="center">
+  A curated collection of my journey through C++ and Competitive Programming — packed with templates, problems, notes, and code from classic CP books.  
+</p>
 
-📘 Notes and templates for algorithms and data structures
+<p align="center">
+  <img src="https://img.shields.io/badge/language-C%2B%2B-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-Competitive%20Programming-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/updates-weekly-success?style=flat-square" />
+</p>
 
-🛠️ Useful snippets and macros to speed up coding
+---
 
-💡 Concept explanations and example-based learning
+## 📂 What's Inside?
 
-Whether you're preparing for contests like Codeforces, AtCoder, or LeetCode, or just looking to improve your C++ skills, you might find something useful here!
-
-
-
-Use the snippets and notes to accelerate your problem-solving.
-
-🧠 Topics Covered
-Data Structures (STL, Trees, Graphs, etc.)
-
-Algorithms (Sorting, Searching, DP, Greedy, etc.)
-
-Number Theory, Geometry, and more
-
-Book exercises (from [insert book names if relevant])
+```bash
+📁 templates/       → Handy C++ templates & macros
+📁 problems/        → Practice problems & contests
+📁 notes/           → Algorithm & DSA notes
+📁 books/           → Code from CP books & exercises
