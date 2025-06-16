@@ -14,8 +14,19 @@
 
 ## 📂 What's Inside?
 
+<ul>
+  <li><strong>🛠️ Templates:</strong> Handy C++ starter templates, macros, and quick setups.</li>
+  <li><strong>📑 Notes:</strong> Concise and clear explanations of algorithms, data structures, and techniques.</li>
+  <li><strong>📘 Book Code:</strong> Implementations and solutions from classic CP books like CP3, CLRS, etc.</li>
+  <li><strong>🔥 Problems:</strong> Solved problems from Codeforces, AtCoder, LeetCode, and more.</li>
+</ul>
+
+---
+
+## 🚀 Quick Start
+
+Clone the repository:
+
 ```bash
-📁 templates/       → Handy C++ templates & macros
-📁 problems/        → Practice problems & contests
-📁 notes/           → Algorithm & DSA notes
-📁 books/           → Code from CP books & exercises
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
