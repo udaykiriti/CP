@@ -1,4 +1,7 @@
 <h1 align="center">🚀 C++ & Competitive Programming Vault 📚</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200" alt="3D code animation"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/udaykiriti/CP">
