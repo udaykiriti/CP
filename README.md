@@ -1,7 +1,10 @@
 <h1 align="center">🚀 C++ & Competitive Programming Vault 📚</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61dafb,100:007acc&height=200&section=header&text=C%2B%2B%20%26amp%3B%20Competitive%20Programming%20Vault🚀&fontSize=30&fontAlign=50&fontColor=ffffff" alt="header"/>
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiriti&theme=tokyonight" />
+</p>
+
 </p>
 
 <h1 align="center">📚 Mastering Code One Problem at a Time</h1>
