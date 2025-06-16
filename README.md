@@ -1,10 +1,7 @@
 <h1 align="center">🚀 C++ & Competitive Programming Vault 📚</h1>
 
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61dafb,100:007acc&height=200&section=header&text=C%2B%2B%20%26amp%3B%20Competitive%20Programming%20Vault🚀&fontSize=30&fontAlign=50&fontColor=ffffff" alt="header"/>
-
 </p>
 
 <h1 align="center">📚 Mastering Code One Problem at a Time</h1>
@@ -23,18 +20,22 @@
 
 ## 📂 What's Inside?
 
-- **🛠️ Templates:** Handy C++ starter templates, macros, and quick setups.
-- **📑 Notes:** Concise and clear explanations of algorithms, data structures, and techniques.
-- **📘 Book Code:** Implementations and solutions from classic CP books like CP3, CLRS, etc.
-- **🔥 Problems:** Solved problems from Codeforces, AtCoder, LeetCode, and more.
+- **🛠️ Templates:** Starter code, macro definitions, and snippets to speed up your CP coding.
+- **📑 Notes:** Algorithms and data structure notes in a concise, digestible format.
+- **📘 Book Code:** Code and exercises from CP books like:
+  - *Competitive Programming 3 (CP3)* by Steven & Felix Halim
+  - *Introduction to Algorithms* (CLRS)
+  - *Elements of Programming Interviews*
+- **🔥 Problems:** Solutions from Codeforces, AtCoder, LeetCode, HackerRank, and more.
 
 ---
 
 ## 🚀 Quick Start
 
-Clone the repository:
+To use this repository:
 
 ```bash
 git clone https://github.com/udaykiriti/CP.git
 cd CP
+
 
