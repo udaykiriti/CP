@@ -1,9 +1,7 @@
 <h1 align="center">🚀 C++ & Competitive Programming Vault 📚</h1>
+
 <p align="center">
   <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200" alt="3D code animation"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="150" alt="3D gear"/>
 </p>
 
 <p align="center">
@@ -16,9 +14,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="3D rotating cube"/>
-</p>
 
 # 📚 Mastering Code One Problem at a Time
 
@@ -40,9 +35,11 @@ This repository serves as a personal vault for competitive programming essential
 Designed for anyone looking to sharpen their competitive programming skills efficiently!
 
 ---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Motivational coding gif" />
 </p>
+
 ## 📂 What's Inside?
 
 - **🛠️ Templates:** Starter code snippets, macros, and reusable C++ boilerplate to jumpstart your coding.
@@ -54,9 +51,11 @@ Designed for anyone looking to sharpen their competitive programming skills effi
 - **🔥 Problems:** Solutions to challenges from Codeforces, AtCoder, LeetCode, HackerRank, and more.
 
 ---
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiriti&theme=tokyonight" />
 </p>
+
 ## 🚀 Quick Start
 
 Clone the repository and get coding:
