@@ -1,8 +1,8 @@
 <h1 align="center">🚀 C++ & Competitive Programming Vault 📚</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=🚀+C%2B%2B+%26+Competitive+Programming;💡+Solve+Problems+Like+a+Pro!;🔥+Optimize+Every+Line!" />
 </p>
-
 
 <h1 align="center">📚 Mastering Code One Problem at a Time</h1>
 
@@ -37,5 +37,3 @@ To use this repository:
 ```bash
 git clone https://github.com/udaykiriti/CP.git
 cd CP
-
-
