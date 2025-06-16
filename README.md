@@ -1,15 +1,4 @@
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiriti&theme=tokyonight" />
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykiriti&theme=tokyo-night&area=true&hide_border=true" />
-</p>
-
-<p align="center">
   <a href="https://github.com/udaykiriti/CP">
     <img src="https://img.shields.io/badge/View%20on-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
@@ -54,7 +43,9 @@ Designed for anyone looking to sharpen their competitive programming skills effi
 - **🔥 Problems:** Solutions to challenges from Codeforces, AtCoder, LeetCode, HackerRank, and more.
 
 ---
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiriti&theme=tokyonight" />
+</p>
 ## 🚀 Quick Start
 
 Clone the repository and get coding:
