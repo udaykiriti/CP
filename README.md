@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=🚀+C%2B%2B+%26+Competitive+Programming;💡+Solve+Problems+Like+a+Pro!;🔥+Optimize+Every+Line!" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiriti&theme=tokyonight" />
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge&logo=heart" />
