@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykiriti&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+
+<p align="center">
   <a href="https://github.com/udaykiriti/CP">
     <img src="https://img.shields.io/badge/View%20on-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
