@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200" alt="3D code animation"/>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="150" alt="3D gear"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/udaykiriti/CP">
