@@ -10,6 +10,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="3D rotating cube"/>
+</p>
 
 # 📚 Mastering Code One Problem at a Time
 
